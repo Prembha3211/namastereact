@@ -31,12 +31,13 @@ This is first "Episode 2";
 
 Episode 3 : -
 
-- 1. edit package.json to run project using npm run start cmd.
-- 2. What is React Element ?
-- 3. JSX
-- 4. What is Babel ?
-- 5. What is React Component and type ?
-     - Class Based Component :- it is old way of writing component
-     - Functional Component :- it is New way of writing Component. it is a normal javascript function
-- 6. What is Component Composition ?
-     - <Title /> using this we can done Component Composition. we can also call Function in JSX.
+1. edit package.json to run project using npm run start cmd.
+
+2. What is React Element ?
+3. JSX
+4. What is Babel ?
+5. What is React Component and type ?
+   - Class Based Component :- it is old way of writing component
+   - Functional Component :- it is New way of writing Component. it is a normal javascript function
+6. What is Component Composition ?
+   - <Title /> using this we can done Component Composition. we can also call Function in JSX.
