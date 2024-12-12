@@ -1,6 +1,6 @@
-this is first "Episode 1";
+🟢 "Episode 1" :-
 
-This is first "Episode 2";
+🟢"Episode 2" :-
 
 1. What is NPM, Bundle ?
 
@@ -29,7 +29,7 @@ This is first "Episode 2";
    - npx :- to executing parcel
 6. Install React/ReactDom by npm install react/react-dom
 
-Episode 3 : -
+🟢 "Episode 3" :-
 
 1. edit package.json to run project using npm run start cmd.
 
@@ -41,3 +41,15 @@ Episode 3 : -
    - Functional Component :- it is New way of writing Component. it is a normal javascript function
 6. What is Component Composition ?
    - <Title /> using this we can done Component Composition. we can also call Function in JSX.
+
+🟢 "Episode 4" :-
+
+1. create a header component & style
+2. Create a body component in App.js.
+3. Create a RestaurantCard component in App.js
+4. What is Props
+   - Props are normal argument to a function.
+5. What is ConfictDriven UI ? 1.16.00
+6. create a styleList object using swiggy api
+7. Giving some props in RestaurantCard
+8. and make a Dynamical call RestaurantCard list using .map method in body component
