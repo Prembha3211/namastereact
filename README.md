@@ -53,3 +53,28 @@
 6. create a styleList object using swiggy api
 7. Giving some props in RestaurantCard
 8. and make a Dynamical call RestaurantCard list using .map method in body component
+
+🟢 "Episode 5" :-
+
+1. Create src folder.
+2. Create a Component folder.
+3. Inside Component Folder we create Body.js, Header.js, Restaurant.js file
+4. and also src folder create a utils folder and inside create constants.js, App.js
+5. In constant file we export CDN_LINK.
+6. What is Hooked?
+   - A Normal Javascript utility Function.
+
+Note.
+
+- Whenever a state variable changes React will Re-render my Component
+
+🟢 "Episode 6" :-
+
+1. What is UseEffect ?
+2. Fetch Data Swiggy API in Body Component
+3. What is Conditional rendering
+4. Create Login Logout button functionality in Header.
+5. Create a Shimmer Component.
+6. Implement a input Search text and Top Rated button functionality in Body.
+
+Note :- Whenever state variable update, react triggers a reconciliation cycle(re-renders the component)
