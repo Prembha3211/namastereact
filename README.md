@@ -115,8 +115,8 @@
 
 🫵 Note:-
 
-🔖 Never Update state varaible Directly.
-🔖 Loading and Mounting meaning is same.
-🔖- ComponentDidMount(){} :- It is use for make an API CALL in Class Based Component.
-🔖 In Functional Component we use useEffect hook to make an API CALL. In react Quickly render it and then make API Call and fill the D ata.
-🏷️ Project.wojtekmaj.pl this is the React life cycle diagram website.
+- 🔖 Never Update state varaible Directly.
+- 🔖 Loading and Mounting meaning is same.
+- 🔖 ComponentDidMount(){} :- It is use for make an API CALL in Class Based Component.
+- 🔖 In Functional Component we use useEffect hook to make an API CALL. In react Quickly render it and then make API Call and fill the D ata.
+- 🏷️ Project.wojtekmaj.pl this is the React life cycle diagram website.
