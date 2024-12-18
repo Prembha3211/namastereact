@@ -64,7 +64,7 @@
 6. What is Hooked?
    - A Normal Javascript utility Function.
 
-Note.
+🫵 Note.
 
 - Whenever a state variable changes React will Re-render my Component
 
@@ -77,7 +77,7 @@ Note.
 5. Create a Shimmer Component.
 6. Implement a input Search text and Top Rated button functionality in Body.
 
-Note :- Whenever state variable update, react triggers a reconciliation cycle(re-renders the component)
+🫵 Note :- Whenever state variable update, react triggers a reconciliation cycle(re-renders the component)
 
 🟢 "Episode 7" :-
 
@@ -88,7 +88,7 @@ Note :- Whenever state variable update, react triggers a reconciliation cycle(re
 - Implement dynamic Route with Restaurant id.
 - RestaurantMenu page fetching API and show the data.
 
-Note :-
+🫵 Note :-
 
 1.  When it is UseEffect is called ?
 
@@ -98,3 +98,25 @@ Note :-
 
 - Client Side Routing.
 - Server Side Routing.
+
+🟢 "Episode 8" :-
+
+- Difference between is Class Based and Functional Component ?
+- Create a user.js Functional component and UserClass.js which is Class Based Component.
+- how do we use props in Class Based Component ?
+- why do we always use Super(props)?
+- we can use useState hook in Class Based Component.
+- What is the Life Cycle of the Class Based Component
+  - Constructor(){}
+  - Render(){}
+    🔖 ComponentDidMount(){} :- It is use for make an API CALL in Class Based Component.
+- What is Mounting, Updating, Unmounting.
+  🔖 ComponentWillMount()
+
+🫵 Note:-
+
+🔖 Never Update state varaible Directly.
+🔖 Loading and Mounting meaning is same.
+🔖- ComponentDidMount(){} :- It is use for make an API CALL in Class Based Component.
+🔖 In Functional Component we use useEffect hook to make an API CALL. In react Quickly render it and then make API Call and fill the D ata.
+🏷️ Project.wojtekmaj.pl this is the React life cycle diagram website.
