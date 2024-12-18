@@ -78,3 +78,23 @@ Note.
 6. Implement a input Search text and Top Rated button functionality in Body.
 
 Note :- Whenever state variable update, react triggers a reconciliation cycle(re-renders the component)
+
+🟢 "Episode 7" :-
+
+- Install react-router-dom.
+- Create a About, Contact, Error page.
+- Implement Routing page in App.js and Header.js
+- Create RestaurantMenu.js component.
+- Implement dynamic Route with Restaurant id.
+- RestaurantMenu page fetching API and show the data.
+
+Note :-
+
+1.  When it is UseEffect is called ?
+
+    - UseEffect will call after every render of that component.
+
+2.  There are 2 types of Routing.
+
+- Client Side Routing.
+- Server Side Routing.
