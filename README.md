@@ -93,6 +93,7 @@
 1.  When it is UseEffect is called ?
 
     - UseEffect will call after every render of that component.
+    - Hook is just normal utility function.
 
 2.  There are 2 types of Routing.
 
@@ -120,3 +121,16 @@
 - 🔖 ComponentDidMount(){} :- It is use for make an API CALL in Class Based Component.
 - 🔖 In Functional Component we use useEffect hook to make an API CALL. In react Quickly render it and then make API Call and fill the D ata.
 - 🏷️ Project.wojtekmaj.pl this is the React life cycle diagram website.
+
+🟢 "Episode 9" :-
+
+- creat a Custom Hook useRestaurantMenu() inside useRestaurantMenu.js component.
+- To optimizing our app we create a new useRestaurantMenu.js Component inside utils folder and fetch the Restaurant menu list API call it RestaurantMenu.jscomponent.
+- To make our code fast we can convert all component into small bundle.
+- What is this are :-
+  - Chunkin
+  - Code Splitting
+  - Dynamic Bundling
+- Implement a Online & Offline status.
+- Implement a Lazy Loading.
+- What is Lazy Loading ? 1:32:00
