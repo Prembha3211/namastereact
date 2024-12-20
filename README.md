@@ -134,3 +134,7 @@
 - Implement a Online & Offline status.
 - Implement a Lazy Loading.
 - What is Lazy Loading ? 1:32:00
+
+🟢 "Episode 10" :-
+
+- Only style the Header and Body Component.
