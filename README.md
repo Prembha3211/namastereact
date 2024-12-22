@@ -138,3 +138,28 @@
 🟢 "Episode 10" :-
 
 - Only style the Header and Body Component.
+
+🟢 "Episode 11" :-
+
+- we can ceate a new Higher Order Component withPromotedLabel() inside RestaurantCard.js component and call it Body.js using creating a Custom hook withPromotedLabel();
+
+- Implement Promoted label on card just like swiggy using all upper steps using Higher order function component withPromotedLabel().
+
+- Implement a restaurant menu page using destructuring categories data in RestaurantCategory.js and make RestaurantCategory.js to get ItemCategory accordians.
+
+- Make it a accordians functionality workable.
+
+- What is {props drilling} ?
+
+- we can create a UserContext.js and used loggedInUser in header using useContext() Hook. And we can used it whenever we want. And we dont want used props.
+
+- What is the UserContext() :-
+  - Context is a Global space. I can provide to hole app or a small portion of our app. I can create multiple context.
+  - the UserContext() uses to make our app default value
+
+🫵 Note:-
+
+- 🔖 What is High Order Component ? Why do we need it ? Where do we use it ? and How do we use it ?
+
+  - 🔖 Higher Order it is function that take a Component and returnes a Component.
+  - 🔖 Higher take component as an input and it Enhanced it add some extra features to that component and returns it back.
