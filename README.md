@@ -163,3 +163,26 @@
 
   - 🔖 Higher Order it is function that take a Component and returnes a Component.
   - 🔖 Higher take component as an input and it Enhanced it add some extra features to that component and returns it back.
+
+🟢 "Episode 12" :-
+
+- What is Redux ?
+  - Read the Redux official Documentation.
+- What is Zustand ?
+- Install @Reduxjs/Toolkit & React-Redux.
+- Connect our store to our app.
+- Dispatch(action).
+- Selector.
+
+- We can create a appStore.js and configure the Store using configureStore.
+- And then create a cartSlice.js in this we just make a reducers like addItem, removeItem, clearCart and export it into the appStore.js using reducer: { cart: cartReducer}.
+- And then using useSelector Hook we can Subscribing the store in Header.js Component.
+- Using Add button in itemList.js we Dispatch an Action.
+- Implement a Clear Cart functionality in Cart.js Component.
+- What is Immer Liberary in Redux/ToolKit.
+
+🫵 Note:-
+
+- 🔖 Install @Reduxjs/Toolkit & React-Redux and build our store.
+- 🔖 A Selector is a Hook in React.
+- 🔖 Cart.js :- Whenever you Subscribing the store make shure to Subscribe write portion of the store.
