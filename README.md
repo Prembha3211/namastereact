@@ -186,3 +186,25 @@
 - 🔖 Install @Reduxjs/Toolkit & React-Redux and build our store.
 - 🔖 A Selector is a Hook in React.
 - 🔖 Cart.js :- Whenever you Subscribing the store make shure to Subscribe write portion of the store.
+
+🟢 "Episode 13" :-
+
+- 🫵 Types of Testing (Developer):-
+  🔖 Unit Testing
+  🔖 Integration Testing
+  🔖 End to End Testing
+
+🔖 Setting up Testing in our App
+
+- Install React Testing Library.
+- Installing jest
+- Installed Babel dependencies
+- Configure Babel.
+- Configure Parcel Config file to disable default babel transpilation.
+- Jest configuration :- npx jest --init
+- Installing Jsdom Library
+- Install @babel/preset-react - to make JSX work in Test Cases.
+- Include @babel/preset-react inside my babel config.
+- Install @testing-library/jest-dom
+- Add "watch-test": "jest --watch" in package.json.
+- Use act() when you use fetch() or useState() while testing.
